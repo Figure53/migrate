@@ -8,9 +8,9 @@ import (
 	"strconv"
 
 	"github.com/lib/pq"
-	"github.com/mattes/migrate/driver"
-	"github.com/mattes/migrate/file"
-	"github.com/mattes/migrate/migrate/direction"
+	"github.com/Figure53/migrate/driver"
+	"github.com/Figure53/migrate/file"
+	"github.com/Figure53/migrate/migrate/direction"
 )
 
 type Driver struct {
