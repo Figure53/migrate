@@ -11,7 +11,6 @@ require (
 	github.com/lib/pq v1.0.0
 	github.com/mattn/go-colorable v0.0.9 // indirect
 	github.com/mattn/go-isatty v0.0.4 // indirect
-	github.com/mattn/go-sqlite3 v1.9.0
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/stretchr/testify v1.2.2 // indirect
 	golang.org/x/sys v0.0.0-20180903190138-2b024373dcd9 // indirect

@@ -14,7 +14,6 @@ import (
 	_ "github.com/Figure53/migrate/driver/cassandra"
 	_ "github.com/Figure53/migrate/driver/mysql"
 	_ "github.com/Figure53/migrate/driver/postgres"
-	_ "github.com/Figure53/migrate/driver/sqlite3"
 	"github.com/Figure53/migrate/file"
 	"github.com/Figure53/migrate/migrate"
 	"github.com/Figure53/migrate/migrate/direction"
