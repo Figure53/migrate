@@ -22,8 +22,6 @@ __Features__
 ## Available Drivers
 
  * [PostgreSQL](https://github.com/Figure53/migrate/tree/master/driver/postgres)
- * [Cassandra](https://github.com/Figure53/migrate/tree/master/driver/cassandra)
- * [SQLite](https://github.com/Figure53/migrate/tree/master/driver/sqlite3)
  * [MySQL](https://github.com/Figure53/migrate/tree/master/driver/mysql) ([experimental](https://github.com/Figure53/migrate/issues/1#issuecomment-58728186))
  * Bash (planned)
 

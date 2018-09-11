@@ -11,7 +11,6 @@ import (
 	"time"
 
 	_ "github.com/Figure53/migrate/driver/bash"
-	_ "github.com/Figure53/migrate/driver/cassandra"
 	_ "github.com/Figure53/migrate/driver/mysql"
 	_ "github.com/Figure53/migrate/driver/postgres"
 	"github.com/Figure53/migrate/file"

@@ -9,7 +9,6 @@ go-test:
   links:
     - postgres
     - mysql
-    - cassandra
 go-build:
   <<: *go
   command: sh -c 'go get -v && go build -ldflags ''-s'' -o migrater'
@@ -22,5 +21,3 @@ mysql:
   environment:
     MYSQL_DATABASE: migratetest
     MYSQL_ALLOW_EMPTY_PASSWORD: yes
-cassandra:
-  image: cassandra:2.2
